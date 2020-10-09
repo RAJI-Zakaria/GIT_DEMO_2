@@ -2,11 +2,11 @@
 
 namespace GIT_DEMO_2
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            say_Hi();
         }
     }
 }
