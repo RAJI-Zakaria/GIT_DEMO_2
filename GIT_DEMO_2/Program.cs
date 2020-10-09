@@ -6,7 +6,9 @@ namespace GIT_DEMO_2
     {
         static void Main(string[] args)
         {
+            //this is a comment
             say_Hi();
+
         }
     }
 }
