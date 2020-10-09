@@ -9,6 +9,11 @@ namespace GIT_DEMO_2
             //this is a comment
             say_Hi();
 
+            void x()
+            {
+                Console.WriteLine("this is x");
+            }
+
         }
     }
 }
